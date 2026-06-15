@@ -1,10 +1,9 @@
 
 #  Cybersecurity Portfolio — Aylan HANIFI
 
-## Projet 1 — Audit GRC Cloud Azure
+## Projet — Audit GRC Cloud Azure
 
 **Type :** Projet personnel — Évaluation des risques cloud  
-**Durée :** ~3 heures  
 **Outils :** Microsoft Azure, NIST CSF 2.0, CIS Controls v8, ISO 27001, ANSSI
 
 ### Contexte
